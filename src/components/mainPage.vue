@@ -1,6 +1,10 @@
 <template>
   <div>
-    <h2>test</h2>
+    <page-header></page-header>
+    <section>
+      <h2>test</h2>
+      <h1>title</h1>
+    </section>
   </div>
 </template>
 
